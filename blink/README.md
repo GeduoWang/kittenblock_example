@@ -2,6 +2,8 @@
 
 Connect LED module to pin 13, or use led on board (the blink led).
 
+![](wiring.png)
+
 Drag the code block as below.
 
 ![](layout.png)
