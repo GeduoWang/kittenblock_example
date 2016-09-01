@@ -1,0 +1,7 @@
+{
+	"title":"Blink A Led",
+	"desc":"Basic LED blink example",
+	"logo":"logo.png",
+	"readme":"readme.md",
+	"layout":"layout.xml"
+}
