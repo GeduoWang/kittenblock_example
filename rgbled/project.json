@@ -1,0 +1,7 @@
+{
+	"title":"Cycle RGB",
+	"desc":"Color cycle a RGB LED module",
+	"logo":"logo.png",
+	"readme":"readme.md",
+	"layout":"layout.xml"
+}

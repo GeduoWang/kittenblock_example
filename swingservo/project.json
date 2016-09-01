@@ -1,0 +1,7 @@
+{
+	"title":"SwingServo",
+	"desc":"Swing a servo motor from kittenblock",
+	"logo":"logo.png",
+	"readme":"readme.md",
+	"layout":"layout.xml"
+}
