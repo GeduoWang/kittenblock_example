@@ -1,0 +1,33 @@
+<xml xmlns="http://www.w3.org/1999/xhtml">
+  <block type="event_whenflagclicked" id="lr4_aH1W1r+5RemB:hck" x="508" y="165">
+    <next>
+      <block type="control_forever" id="VW0NzU(1VCn+-|+=X6F{">
+        <statement name="SUBSTACK">
+          <block type="rosbot_sprite_say" id="M7mOvQ7uhN5T:I!ng=3b">
+            <value name="MESSAGE">
+              <shadow type="text" id=",v7sq5tNKWw+N=k1-zda">
+                <field name="TEXT">Hello!</field>
+              </shadow>
+              <block type="arduino_analog_read" id=")w`MSPHf5t!9t;hp{vR-">
+                <value name="PINNUM">
+                  <shadow type="text" id="COq{99Os_ZAZY#_db:3l">
+                    <field name="TEXT">A3</field>
+                  </shadow>
+                </value>
+              </block>
+            </value>
+            <next>
+              <block type="control_wait" id="@PfK]586A;HBUe_}JcmG">
+                <value name="DURATION">
+                  <shadow type="math_number" id=")?y9n,{UK#%ZSsOKvn-=">
+                    <field name="NUM">0.5</field>
+                  </shadow>
+                </value>
+              </block>
+            </next>
+          </block>
+        </statement>
+      </block>
+    </next>
+  </block>
+</xml>
