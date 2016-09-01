@@ -4,7 +4,7 @@ Connect LED module to pin 13, or use led on board (the blink led).
 
 Drag the code block as below.
 
-![](https://raw.githubusercontent.com/KittenBot/kittenblock_example/master/blink/layout.png)
+![](layout.png)
 
 And push the "GREEN FLAG" button to execute the code, you may see the led is blinking.
 
